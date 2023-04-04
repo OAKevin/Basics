@@ -1,0 +1,29 @@
+Kevin Miranda Torres
+
+Guided Inquiry: Version Control
+
+What is Terminal?
+
+Terminal is the backbone of your computer. It is the skeleton of your directories and 
+where you have access to all the content stored in your computer. Through the terminal you can
+install packages, delete packages and also move around folders and items. Every command that your computer 
+runs through the mouse has a terminal command. So when you move a folder from desktop to documents, your terminal
+must can also do it through a move command. The Terminal has the ability to update or check the status of software.
+If you need to check the current version of the software you're using you can run the -v command with the software name
+as well if you need the run a current version of that software you can also get that done. It is very important for developers
+especially those who are interested in Backend. Alot of backend servers are ran through terminal, that is also the way most
+Databases are ran naturally, it wasn't until the introduction of the dashboards that we started seeing alot of users moving 
+to a different way of running those folders.
+
+What is the major difference between Git and Github?
+
+Git is a language used to navigate through repositories, forks and timelines. Where Github is the server/application where 
+all repositories, folders, and files are stored. You can use github to share projects as well as collaborate with other 
+developers. The Github community also has alot of resources on open repo projects as well as forums on past applications. 
+
+Why do we use Github?
+
+Github is an application where you can collaborate with your team on a project. It is a safe place to maintain working directories
+and work on new implementation without having to change the working code. Most companies use github in order to open branches for their 
+developers to have a safe place to work on changes, you can fork the current main branch to create an instance where you can make additions 
+or delitions without influencing other's code. This is essential when working on big teams where version control is important.
